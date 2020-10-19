@@ -26,3 +26,5 @@ public class TwentySidedDice {
 		
 	}
 }
+//This looks suspiciously like the Spinner object we created in class. :(
+//Create your own object and resubmit
